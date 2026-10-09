@@ -1,0 +1,22 @@
+# Operating System files
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Environment & local config
+.env
+.env.local
+*.log
+
+# Dependencies (PHP / Node if added later)
+/vendor/
+/node_modules/
+
+# IDE & Editors
+.idea/
+.vscode/
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+*.swp
